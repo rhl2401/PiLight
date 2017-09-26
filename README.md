@@ -12,12 +12,12 @@ Using a Raspberry Pi 3 with Pixel installed, Python, WiringPi, PHP, HTML, CSS an
 
 
 ## Pre-installation 
-- Flash Pixel to the SD-card, boot it up on the Raspberry Pi and configure it
 - Build some kind of setup with the relay. You will be able to find some pictures on Google if interested.
+- Flash Pixel to the SD-card, boot it up on the Raspberry Pi and configure it
+- Download WiringPi from the source: http://wiringpi.com/
+- Download Apache and do the basic configurations
 
 
 ## Installation and setup
-- Download WiringPi from the source: http://wiringpi.com/
-- Download Apache and do the basic configurations
 - Download this source
 - Go to "scripts" and make sure that the file "setup.py" will run on boot (else you will have to run it everytime you boot yourself).
