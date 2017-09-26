@@ -1,0 +1,98 @@
+body {
+    background-color: #30302E;
+    color: #fff;
+}
+
+.no-padding {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+img {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.master {
+    background-color: #54708A;
+    margin-bottom: 40px;
+}
+
+.master > section > .icon {
+    background-color: #4b647c;
+}
+
+.master-btn {
+    background-color: #404040;
+    padding-right: 40px;
+    padding-left: 40px;
+    border: none;
+    position: relative;
+    display: inline-block;
+    height: 34px;
+    float: right;
+    margin-top: 5px;
+    border-radius: 15px;
+}
+
+.master-margin {
+    margin-top: 9px;
+}
+
+.green {
+    background-color: #87CC8D;
+}
+
+.green > section > .icon {
+    background-color: #7AB77E;
+}
+
+.red {
+    background-color: #FE4E51;
+}
+
+.red > section > .icon {
+    background-color: #E8484A;
+}
+
+.yellow {
+    background-color: #EDD477;
+}
+
+.yellow > section > .icon {
+    background-color: #D6BD69;
+}
+
+.orange {
+    background-color: #FB9D59;
+}
+
+.orange > section > .icon {
+    background-color: #E88F53;
+}
+
+.light7 {
+    margin-bottom: 15px;
+}
+
+.img-center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-control, .btn-info {
+    background-color: rgba(0,0,0,0);
+    border-radius: 0px;
+    border: none;
+    border-bottom: 2px solid #BB1142;
+    font-family: 'Roboto', sans-serif;
+    color:#fff;
+    font-size: larger;
+}
+
+.btn-info {
+    border: 2px solid #BB1142;
+    height: 40px;
+    width: 100%;
+    margin-top: 30px;
+}
