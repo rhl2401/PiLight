@@ -59,7 +59,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 light light1 green no-padding">
                         <section class="light-section">
                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 no-padding icon">
-                                <img src="img/monitor_single.png" class="img-responsive">
+                                <img src="img/light1.png" class="img-responsive">
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                                 <h3 class="name">Room lights 1</h3>
@@ -99,7 +99,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 light light3 orange no-padding">
                         <section class="light-section">
                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 no-padding icon">
-                                <img src="img/keyboard.png" class="img-responsive">
+                                <img src="img/lamp3.png" class="img-responsive">
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <h3 class="name">Room lights 3</h3>
@@ -118,7 +118,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 light light4 yellow no-padding">
                         <section class="light-section">
                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 no-padding icon">
-                                <img src="img/lamp7.png" class="img-responsive">
+                                <img src="img/lamp4.png" class="img-responsive">
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <h3 class="name">Room lights 4</h3>
@@ -139,7 +139,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 light light5 green no-padding">
                         <section class="light-section">
                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 no-padding icon">
-                                <img src="img/spot.png" class="img-responsive">
+                                <img src="img/lamp5.png" class="img-responsive">
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <h3 class="name">Room lights 5</h3>
@@ -159,7 +159,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 light light6 red no-padding">
                         <section class="light-section">
                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 no-padding icon">
-                                <img src="img/lamp8.png" class="img-responsive">
+                                <img src="img/lamp6.png" class="img-responsive">
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <h3 class="name">Room lights 6</h3>
@@ -179,7 +179,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 light light7 orange no-padding">
                         <section class="light-section">
                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 no-padding icon">
-                                <img src="img/dock.png" class="img-responsive">
+                                <img src="img/lamp7.png" class="img-responsive">
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <h3 class="name">Room lights 7</h3>
@@ -198,7 +198,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 light light8 yellow no-padding">
                         <section class="light-section">
                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 no-padding icon">
-                                <img src="img/lamp1_trans.png" class="img-responsive">
+                                <img src="img/lamp8.png" class="img-responsive">
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <h3 class="name">Room lights 8</h3>
