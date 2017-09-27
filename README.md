@@ -7,8 +7,8 @@ Using a Raspberry Pi 3 with Pixel installed, Python, WiringPi, PHP, HTML, CSS an
 ## Requirements
 - Raspberry Pi (I am using a Raspberry Pi 3).
 - Everything you need to make the Pi running (power adaptor, SD-card etc.).
-- Relay for Arduino (I am using an 8 channel relay which the code is also written for).
-- 10 Male-to-male jumper wires.
+- Relay for Arduino (I am using an 8 channel relay which the code is also written for).[Buy on Amazon](https://www.amazon.com/JBtek-Channel-Relay-Arduino-Raspberry/dp/B00KTELP3I)
+- 10 female-to-female jumper wires.
 
 
 ## Pre-installation 
